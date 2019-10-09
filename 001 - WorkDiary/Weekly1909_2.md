@@ -23,3 +23,11 @@
 
 ### 学习
 
+1. 初步完成RedTidy项目中应用的[相关分析文档](https://github.com/YiguoWang/Domybest/blob/master/500%20-%20RedTidyProject/%E7%9B%B8%E5%85%B3%E5%88%86%E6%9E%90.md)。
+2. 初步完成RedTidy项目中[聚类分析文档](https://github.com/YiguoWang/Domybest/blob/master/500%20-%20RedTidyProject/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90.md)。
+
+### 其他
+
+1. 搭建完成git多个客户端环境。
+
+   
