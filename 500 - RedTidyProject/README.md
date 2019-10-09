@@ -1,4 +1,4 @@
-# Domybest
+# RedTidy
 
 ## 介绍
 
@@ -10,12 +10,10 @@
 - github中只记录项目中应用的现有理论和相关论文。
 - 不记录任何实验数据和实验结果等相关内容。
 
+## 相关
 
-
-This is a Flag , Today is October 9,2019.
-
-
-
-
-just do your best and move on.
-
+- 数据分析的流程。
+- 数据分析基本算法。
+- 可应用的机器学习算法。
+- python
+- sklearn
