@@ -22,15 +22,64 @@
 
 ### Git 托管
 
-- **git init** ，初始化Git工作目录。
-- 输入命令：**git remote** add origin git@github.com:plusru/exam.git，添加远程主机。
-- 同步仓库内容，输入命令：**git pull** git@github:plusru/exam.git。
+- 初始化Git工作目录
+
+  ```
+  git init
+  ```
+
+- 添加远程主机。
+
+  ```
+  git remote add origin git@github.com:plusru/exam.git
+  ```
+
+- 同步仓库内容
+
+  ```
+  git pull git@github:plusru/exam.git
+  ```
+
 - 本地内容上传到仓库：
   - 执行增加命令：**git add**.，add后面的点，表示的是提交所有文件，如果想指定提交文件，可以写文件名。
   - 执行提交命令：**git commit** -m, "its commits"，-m后面是提示信息。
   - 推送：命令 **git push** git@github.com:plusru/exam.git
 
 ## Git远程操作
+
+### Git图解
+
+![Git图解](http://pz38o5vs6.bkt.clouddn.com/bg2014061202.jpg)
+
+
+
+### 远程操作
+
+- git clone
+- git remote
+- git fetch
+- git pull
+- git push
+
+#### git clone
+
+从远程主机克隆一个版本库.
+
+```
+git clone https://github.com/jquery/jquery.git
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -52,4 +101,6 @@
 
 [知乎]: https://zhuanlan.zhihu.com/p/23167699	"知乎博客"
 [阮一峰的网络日志]: http://www.ruanyifeng.com/blog/2014/06/git_remote.html
+
+
 
