@@ -50,5 +50,6 @@
 
 ## 参考
 
-[知乎]: https://zhuanlan.zhihu.com/p/23167699
+[知乎]: https://zhuanlan.zhihu.com/p/23167699	"知乎博客"
+[阮一峰的网络日志]: http://www.ruanyifeng.com/blog/2014/06/git_remote.html
 
