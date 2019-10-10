@@ -34,7 +34,7 @@
   - Octohint，github插件
   - Octotree，github插件
   - Isometric Contributions，github插件
-  - Tex all things,Latex插件
+  - Tex All The Things,Latex插件
 
 ## 笔记工具
 
