@@ -7,7 +7,7 @@
 
 致谢放在最前面，是自己很多工具都参考了以上几个列表。
 
-以下List是正在使用或者偶尔使用的工具列表，对于Ipad，参考 学术型Ipad装备指南，其实没有“指南”只是一个list。
+以下List是正在使用或者偶尔使用的工具列表，对于Ipad，参考 [学术型Ipad装备指南](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/Awesome%20tools%20for%20ipad.md)，其实没有“指南”只是一个list。
 
 ------
 
