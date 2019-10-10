@@ -377,7 +377,21 @@ Git也允许手动建立追踪关系。
 
 - 在目录下创建 .gitkeep 文件，在项目的 .gitinore中设置不忽略 .gitkeep
 
+### ssh_dispatch_run_fatal 错误
 
+- git push的时候没有反应，打开cmd输入ping命令查看github.com的连接，发现无法连接。
+
+- 解决方法：
+
+  - 找到`C:\Windows\System32\drivers\etc\hosts`，打开
+
+  - #### 在末尾添加上下面这段文字，保存
+
+    ```
+    192.30.255.112  github.com git 
+    192.30.255.113  github.com git 
+    185.31.16.184 github.global.ssl.fastly.net 
+    ```
 
 ## Git 配套
 
