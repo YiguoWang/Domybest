@@ -33,8 +33,6 @@
   - ```
   git config --global user.email "邮箱"
     ```
-    
-    
 
 ### Git 托管
 
