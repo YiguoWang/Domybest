@@ -384,6 +384,10 @@ Git也允许手动建立追踪关系。
 - [Git](https://git-scm.com/)，本地git工具
 - [七牛云](https://www.qiniu.com/)+[云存储管理客户端](https://github.com/willnewii/qiniuClient)，图床+图管理工具
 - [Typora](https://www.typora.io/)，Markdown工具
+- github插件：
+  - octotree，目录文件工具。
+  - octohint，代码高亮工具。
+  - isometric-contributions，将GitHub Commit转为3D模式
 
 ## 参考
 
