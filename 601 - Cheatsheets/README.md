@@ -15,7 +15,11 @@
 - [pandas](https://pandas.pydata.org/pandas-docs/version/0.25/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [matplotlib.pyplot](https://matplotlib.org/api/pyplot_summary.html)
-- [Python for Data Analysis.pdf](https://github.com/YiguoWang/Domybest/blob/master/601 - Cheatsheets/601 - cheatheets/cheatsheets - Python for Data Analysis.pdf)
-- [PythonForDataScience.pdf](https://github.com/YiguoWang/Domybest/blob/master/601 - Cheatsheets/601 - cheatheets/cheatsheets - PythonForDataScience.pdf)
-- [python-cheatsheets-ds.pdf](https://github.com/YiguoWang/Domybest/blob/master/601 - Cheatsheets/601 - cheatheets/cheatsheets - python-cheatsheets-ds.pdf)
+- [datetime](https://docs.python.org/3/library/datetime.html)
+
+
+
+### Markdowm
+
+- [cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

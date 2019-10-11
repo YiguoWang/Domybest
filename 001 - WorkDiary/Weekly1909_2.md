@@ -16,6 +16,7 @@
 2. 清空遗留的inbox
 3. nas上文件整理，根据文件管理体系
 4. [重构密码管理体系](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86.md)
+5. Note:[人工不智能：计算机如何误解世界](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191008%20-%E3%80%8A%E4%BA%BA%E5%B7%A5%E4%B8%8D%E6%99%BA%E8%83%BD%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A6%82%E4%BD%95%E8%AF%AF%E8%A7%A3%E4%B8%96%E7%95%8C%E3%80%8B.md)
 
 
 
@@ -29,6 +30,7 @@
 ### 其他
 
 1. 搭建完成git多个客户端环境。
+2. Note：[选择](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191009%20-%E3%80%8A%E9%80%89%E6%8B%A9%E3%80%8B.md)
 
 
 
@@ -43,14 +45,20 @@
 1. 整理之前的[读书笔记](https://github.com/YiguoWang/Domybest/tree/master/700%20-%20Reading%20List)，精简以后分享在github中。
 2. 整理Evernote中的[Awesome Tools系列笔记](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/Awesome%20tools.md)。
 3. 初步完成经验分享：[如何做好系统学习](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0.md)。
+4. Note：[常见的逻辑错误：时刻警示自己](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191010%20-%20%E2%80%9C%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%BB%E8%BE%91%E9%94%99%E8%AF%AF%E2%80%9D.md)
+
+### For Health
+
+1. 篮球三个小时
 
 
 ## 190911
 
 ### 学习
 
-1. 
+1. 项目过程中对python的一些知识点不熟悉，用的时候补充一下。
 
 ### 其他
 
-1. 
+1. Note：[学习的升级](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191011%20-%E3%80%8A%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8D%87%E7%BA%A7%E3%80%8B.md)
+2. 整理赤潮项目文档和思路
