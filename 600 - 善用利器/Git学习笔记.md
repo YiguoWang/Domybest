@@ -393,6 +393,23 @@ Git也允许手动建立追踪关系。
     185.31.16.184 github.global.ssl.fastly.net 
     ```
 
+### Git push error 错误
+
+- git提供了https、git、ssh三种协议来读写。
+- 运行`git config --local -e`打开配置信息。修改其中的
+
+```
+url = git@github.com:username/repo.git
+```
+
+为https协议
+
+```
+url = https://username@github.com/username/repo.git
+```
+
+
+
 ## Git 配套
 
 - [Git](https://git-scm.com/)，本地git工具
