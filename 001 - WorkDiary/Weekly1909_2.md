@@ -41,9 +41,16 @@
 ### 其他
 
 1. 整理之前的[读书笔记](https://github.com/YiguoWang/Domybest/tree/master/700%20-%20Reading%20List)，精简以后分享在github中。
-
 2. 整理Evernote中的[Awesome Tools系列笔记](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/Awesome%20tools.md)。
-
 3. 初步完成经验分享：[如何做好系统学习](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0.md)。
 
-   
+
+## 190911
+
+### 学习
+
+1. 
+
+### 其他
+
+1. 
