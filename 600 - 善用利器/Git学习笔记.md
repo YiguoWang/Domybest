@@ -403,6 +403,13 @@ Git也允许手动建立追踪关系。
   - octohint，代码高亮工具。
   - isometric-contributions，将GitHub Commit转为3D模式
 
+## 多端同步
+- GitHome
+- GitServer
+- GitPC
+- GitMac
+- GitOffice
+
 ## 参考
 
 1. [[知乎]](https://zhuanlan.zhihu.com/p/23167699)
