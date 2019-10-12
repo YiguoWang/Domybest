@@ -23,3 +23,15 @@
 
 ## 2. 概率论
 
+- if you have enough time
+  - [可汗学院统计学](http://open.163.com/special/Khan/khstatistics.html)
+- if not
+  - [机器学习的数学基础](https://github.com/YiguoWang/Data-Science-Notes/blob/master/0.math/0.basic/1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
+  - [CS229-Prob](https://github.com/YiguoWang/Data-Science-Notes/blob/master/0.math/1.CS229/2.CS229-Prob.pdf)
+- 书籍
+  -  [Probability and Statistics](http://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+
+
+
+## 高等数学
+
