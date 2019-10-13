@@ -47,7 +47,7 @@
 3. 初步完成经验分享：[如何做好系统学习](https://github.com/YiguoWang/Domybest/blob/master/600%20-%20%E5%96%84%E7%94%A8%E5%88%A9%E5%99%A8/%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0.md)。
 4. Note：[常见的逻辑错误：时刻警示自己](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191010%20-%20%E2%80%9C%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%BB%E8%BE%91%E9%94%99%E8%AF%AF%E2%80%9D.md)
 
-### For Health
+### 运动
 
 1. 篮球三个小时
 
@@ -62,3 +62,32 @@
 
 1. Note：[学习的升级](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191011%20-%E3%80%8A%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8D%87%E7%BA%A7%E3%80%8B.md)
 2. 整理赤潮项目文档和思路
+
+## 190911
+
+### 学习
+
+1. 无
+
+### 其他
+
+1. Note：[思考快与慢](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191012%20-%E3%80%8A%E6%80%9D%E8%80%83%E5%BF%AB%E4%B8%8E%E6%85%A2%E3%80%8B.md)
+2. 赤潮小组会
+3. 整理DataScience目录和部分线性代数资源目录
+
+### 运动
+
+1. 篮球一个半小时，备战教工赛。
+
+## 190912
+
+### 学习
+
+1. 无
+
+### 其他
+
+1. Note：
+2. 整理赤潮项目汇报ppt。
+3. 参观东方红3号。
+
