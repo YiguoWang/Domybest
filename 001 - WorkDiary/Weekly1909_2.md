@@ -87,7 +87,25 @@
 
 ### 其他
 
-1. Note：
+1. Note：[硅谷之谜](https://github.com/YiguoWang/Domybest/blob/master/700%20-%20Reading%20List/191013%20-%E3%80%8A%E7%A1%85%E8%B0%B7%E4%B9%8B%E8%B0%9C%E3%80%8B.md)
 2. 整理赤潮项目汇报ppt。
 3. 参观东方红3号。
 
+## 本周总结
+
+本周主要学习并搭建了github上写文件的框架，现在的主要框架是：
+
+- WorkDiary
+- DataScience
+- RedTidyProject
+- 善用利器
+- Cheatsheets
+- ReadingList
+- Subject Research
+
+坚持，也是一种需要养成的好习惯。
+
+- 坚持阅读
+- 坚持运动
+- 坚持学习
+- 坚持Github
