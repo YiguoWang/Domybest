@@ -23,3 +23,11 @@
 
 - [cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+
+
+
+
+### Colab
+
+- [Google Colab 免费 GPU 使用教程](https://juejin.im/post/5c05e1bc518825689f1b4948)
+
