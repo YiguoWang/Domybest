@@ -106,3 +106,9 @@
 - 要求：
   - 每人至少讲一篇有关Lstm，convLstm，Lstm其他的一些变种，多任务学习、图网络、时空预测的论文。
   - 修士勇可多讲下代码分析，王展梁每次给我们讲一个和深度学习相关的数学点。
+
+#### 补充资源
+
+- [一文读懂「Attention is All You Need」| 附代码实现](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247486960&idx=1&sn=1b4b9d7ec7a9f40fa8a9df6b6f53bbfb&chksm=96e9d270a19e5b668875392da1d1aaa28ffd0af17d44f7ee81c2754c78cc35edf2e35be2c6a1&scene=21#wechat_redirect)
+- [奇异值分解(SVD)原理与在降维中的应用](https://www.cnblogs.com/pinard/p/6251584.html)
+- [一文让你通俗理解奇异值分解](https://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652567516&idx=1&sn=7239d6d651fe77e996402c191fa68ad2&chksm=8b7e0687bc098f919deb57b6113339467bd1abe42cb53f7db5909a90d6d4cb22291bc983c903&mpshare=1&scene=1&srcid=0628va3WXVV53n8IsWAdmu5O#rd)
