@@ -38,7 +38,7 @@
   - **Local Relational Networks for Image Recognition**
     - ![2019-10-24_08h37_17.png](http://pz38o5vs6.bkt.clouddn.com/2019-10-24_08h37_17.png)
 
-![2019-10-24_08h37_21.png](http://pz38o5vs6.bkt.clouddn.com/2019-10-24_08h37_21.png)
+<img src="http://pz38o5vs6.bkt.clouddn.com/2019-10-24_08h37_21.png" alt="2019-10-24_08h37_21.png" style="zoom:67%;" />
 
 #### 伊俊杰
 
