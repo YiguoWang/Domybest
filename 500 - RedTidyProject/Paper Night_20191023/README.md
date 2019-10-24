@@ -90,7 +90,14 @@
 
 #### 本周遗留问题
 
-
+- 项目中叶绿素异常值检测问题。
+- 修士勇论文2,3中细节问题
+  - 论文2，Stand-Alone Self-Attentionin Vision Models
+    - 怎么用的注意力机制
+    - ”红绿蓝“是什么意思？为什么是”红绿蓝“？
+  - 论文3，**Local Relational Networks for Image Recognition**
+    - 更深入的层面？
+    - 为什么这么做？
 
 #### 其他
 
