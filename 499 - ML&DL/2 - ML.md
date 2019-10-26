@@ -30,3 +30,4 @@
 
 ## Others
 
+- [判别模型、生成模型与朴素贝叶斯方法](https://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652567651&idx=2&sn=ab4182eddaf2c465b4a514e34ac00cbe&chksm=8b7e0938bc09802ef56b81ccde8ee7d1f7f47b9d3fa9802dcb18a356d6a51f46d9ce581b50df&mpshare=1&scene=1&srcid=1024NEC8FR2CSQ5xDcx6i288&sharer_sharetime=1571921806238&sharer_shareid=e3fd0bc576019eb258b28dbc23db97d9#rd)
